@@ -32,13 +32,15 @@ This robot performs an end-to-end automation process:
 
 ## 📂 Project Structure
 
+```
 .
-├── tasks.py # Main automation script  
-├── output/  
-│ ├── sales_summary.png # Screenshot of results  
-│ └── sales_results.pdf # Generated PDF report  
-├── SalesData.xlsx # Downloaded input file  
-└── README.md # Project documentation
+├── tasks.py              # Main automation script
+├── output/
+│   ├── sales_summary.png # Screenshot of results
+│   └── sales_results.pdf # Generated PDF report
+├── SalesData.xlsx        # Downloaded input file
+└── README.md             # Project documentation
+```
 
 ---
 
